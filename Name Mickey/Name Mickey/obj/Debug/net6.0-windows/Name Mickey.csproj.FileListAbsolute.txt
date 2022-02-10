@@ -1,0 +1,17 @@
+C:\Users\TeammyNo1\Desktop\github\Name-Mickey\Name Mickey\Name Mickey\bin\Debug\net6.0-windows\Name Mickey.exe
+C:\Users\TeammyNo1\Desktop\github\Name-Mickey\Name Mickey\Name Mickey\bin\Debug\net6.0-windows\Name Mickey.deps.json
+C:\Users\TeammyNo1\Desktop\github\Name-Mickey\Name Mickey\Name Mickey\bin\Debug\net6.0-windows\Name Mickey.runtimeconfig.json
+C:\Users\TeammyNo1\Desktop\github\Name-Mickey\Name Mickey\Name Mickey\bin\Debug\net6.0-windows\Name Mickey.dll
+C:\Users\TeammyNo1\Desktop\github\Name-Mickey\Name Mickey\Name Mickey\bin\Debug\net6.0-windows\ref\Name Mickey.dll
+C:\Users\TeammyNo1\Desktop\github\Name-Mickey\Name Mickey\Name Mickey\bin\Debug\net6.0-windows\Name Mickey.pdb
+C:\Users\TeammyNo1\Desktop\github\Name-Mickey\Name Mickey\Name Mickey\obj\Debug\net6.0-windows\Name Mickey.csproj.AssemblyReference.cache
+C:\Users\TeammyNo1\Desktop\github\Name-Mickey\Name Mickey\Name Mickey\obj\Debug\net6.0-windows\Name_Mickey.Form1.resources
+C:\Users\TeammyNo1\Desktop\github\Name-Mickey\Name Mickey\Name Mickey\obj\Debug\net6.0-windows\Name Mickey.csproj.GenerateResource.cache
+C:\Users\TeammyNo1\Desktop\github\Name-Mickey\Name Mickey\Name Mickey\obj\Debug\net6.0-windows\Name Mickey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TeammyNo1\Desktop\github\Name-Mickey\Name Mickey\Name Mickey\obj\Debug\net6.0-windows\Name Mickey.AssemblyInfoInputs.cache
+C:\Users\TeammyNo1\Desktop\github\Name-Mickey\Name Mickey\Name Mickey\obj\Debug\net6.0-windows\Name Mickey.AssemblyInfo.cs
+C:\Users\TeammyNo1\Desktop\github\Name-Mickey\Name Mickey\Name Mickey\obj\Debug\net6.0-windows\Name Mickey.csproj.CoreCompileInputs.cache
+C:\Users\TeammyNo1\Desktop\github\Name-Mickey\Name Mickey\Name Mickey\obj\Debug\net6.0-windows\Name Mickey.dll
+C:\Users\TeammyNo1\Desktop\github\Name-Mickey\Name Mickey\Name Mickey\obj\Debug\net6.0-windows\ref\Name Mickey.dll
+C:\Users\TeammyNo1\Desktop\github\Name-Mickey\Name Mickey\Name Mickey\obj\Debug\net6.0-windows\Name Mickey.pdb
+C:\Users\TeammyNo1\Desktop\github\Name-Mickey\Name Mickey\Name Mickey\obj\Debug\net6.0-windows\Name Mickey.genruntimeconfig.cache

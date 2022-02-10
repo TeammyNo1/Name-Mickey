@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cad095b4-4546-4e3a-8fcd-c2951fff7c6c": {
+      "ProjectGuid": "cad095b4-4546-4e3a-8fcd-c2951fff7c6c",
+      "DisplayName": "Name Mickey",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
